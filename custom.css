@@ -1,0 +1,41 @@
+.col-box-title {
+        color: #fff;
+        background: #00aabb;
+        padding: 30px;
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        background-image: url("https://voxleaf.com/wp-content/uploads/2018/04/bg-1.jpg");
+         background-position: bottom;
+
+    }
+
+    .col-box-header {
+        background: #09041c;
+        color: #fff;
+    }
+
+   
+    body {
+    font-family: "Avenir Light", sans-serif;
+    font-weight: 400;
+    /*font-size: 16px;*/
+    line-height: 1.7;
+    color: $color-grey-dark;
+}
+    #template-container {
+        font-family: "Avenir Light", sans-serif;
+    }
+
+    .col-box-header, h4 {
+        font-size: 18px;
+        color: #0693b1 !important; 
+        font-weight: bold !important;
+        
+    }
+
+h1 {
+    background: linear-gradient(64deg, #f634a5 25%, #fff 63.45%, #fff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
